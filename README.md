@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Generate a unquie "identicon" or github default profile png from a users input.
 
 ## Installation
 
